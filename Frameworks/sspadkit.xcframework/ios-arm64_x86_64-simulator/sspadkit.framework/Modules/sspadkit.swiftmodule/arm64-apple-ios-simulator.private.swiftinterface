@@ -65,6 +65,7 @@ public class SSPBannerAdRequest {
   final public let addresponse: sspadkit.AddResponse
   public func show(in view: UIKit.UIView)
   @objc public func webView(_ webView: WebKit.WKWebView, decidePolicyFor navigationAction: WebKit.WKNavigationAction, decisionHandler: @escaping (WebKit.WKNavigationActionPolicy) -> Swift.Void)
+  @objc public func webView(_ webView: WebKit.WKWebView, createWebViewWith configuration: WebKit.WKWebViewConfiguration, for navigationAction: WebKit.WKNavigationAction, windowFeatures: WebKit.WKWindowFeatures) -> WebKit.WKWebView?
   @objc public func closePopUpAction()
   @objc deinit
 }

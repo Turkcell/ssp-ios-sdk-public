@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/sspadkit-Swift.h</key>
 		<data>
-		iW949rWozo0SK1jjVJO5rT5fi9E=
+		kwtwSel9MVYKJt8I80aCWgiJugk=
 		</data>
 		<key>Headers/sspadkit.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/sspadkit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		0MF+QbN4qVNlEJlaEv8jhJ4RXDo=
+		WfuRujs8s3xQ+SzTAzkg5YWaLN8=
 		</data>
 		<key>Modules/sspadkit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		YR10BmIXvD3AfA9a2o+XANw5mOs=
+		y9VNLsdxb4PuCpwxXpKmkpOfrik=
 		</data>
 		<key>Modules/sspadkit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/sspadkit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		YR10BmIXvD3AfA9a2o+XANw5mOs=
+		y9VNLsdxb4PuCpwxXpKmkpOfrik=
 		</data>
 		<key>Modules/sspadkit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		1XBD0QfomDF0F1liHVzyIjBNIqA=
+		pRIqLg+spE/Llxq56DrsQrI6HFM=
 		</data>
 		<key>Modules/sspadkit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		0MF+QbN4qVNlEJlaEv8jhJ4RXDo=
+		WfuRujs8s3xQ+SzTAzkg5YWaLN8=
 		</data>
 		<key>Modules/sspadkit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		tJ12OFvXd65Dnd/2UBAM2UHLkZM=
+		NIZBVunUZ5E7MZnCb3C2Mwt0QHk=
 		</data>
 		<key>Modules/sspadkit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/sspadkit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		tJ12OFvXd65Dnd/2UBAM2UHLkZM=
+		NIZBVunUZ5E7MZnCb3C2Mwt0QHk=
 		</data>
 		<key>Modules/sspadkit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GcLl9nUrFF+GdL+2ypAmh2iC/j4=
+		nF/jl2quDmRT0a8+C2ggFz5WrlQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GOVzDFFAEJmhHcDUO7JAdXpwIWFDfPxb16p+brXCyl4=
+			7zlL0MosSbZ/3Iy33DiUB1QznxeqsmO4ZJt+v58GkhQ=
 			</data>
 		</dict>
 		<key>Headers/sspadkit.h</key>
@@ -88,14 +88,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3sOz8VFV/HP8PM59miCshC8A3f+JhQRL2HZhilzxvew=
+			GxULO9DtdN+/xeQg4whq9VINY4bT7HGFjjdeK0dzoHo=
 			</data>
 		</dict>
 		<key>Modules/sspadkit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			54nB27+71BoefJKTrJfLNS6CjHWaGVl+zIiM6akA0DI=
+			IAc5JzmQtIkmgcfUUnjGNVvT8YC5/ZdPeo9EAv8s6rM=
 			</data>
 		</dict>
 		<key>Modules/sspadkit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -109,28 +109,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			54nB27+71BoefJKTrJfLNS6CjHWaGVl+zIiM6akA0DI=
+			IAc5JzmQtIkmgcfUUnjGNVvT8YC5/ZdPeo9EAv8s6rM=
 			</data>
 		</dict>
 		<key>Modules/sspadkit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u3yukJQpLUmGAMS36eoQBRlVqgFzbTFnGayJAQuRb9A=
+			iKMWu7bCuJaVHcXY2/loIeXjVFvus3Cpfm0F6PSSCzI=
 			</data>
 		</dict>
 		<key>Modules/sspadkit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3sOz8VFV/HP8PM59miCshC8A3f+JhQRL2HZhilzxvew=
+			GxULO9DtdN+/xeQg4whq9VINY4bT7HGFjjdeK0dzoHo=
 			</data>
 		</dict>
 		<key>Modules/sspadkit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZiBpi5GhLe6gjAgFViwjagusCPm8JxX8v/DvzQj2/JI=
+			zbE1ujrNbVOR9kx79CwOTV1v42mP2X62AeWIjE+am24=
 			</data>
 		</dict>
 		<key>Modules/sspadkit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -144,14 +144,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZiBpi5GhLe6gjAgFViwjagusCPm8JxX8v/DvzQj2/JI=
+			zbE1ujrNbVOR9kx79CwOTV1v42mP2X62AeWIjE+am24=
 			</data>
 		</dict>
 		<key>Modules/sspadkit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wNsPNQ9b5axBoYoE19NzqNxaAZzPvGroG7lJhMBlkRg=
+			A3wf2CRQNJWJ2YbpRVy3UHLD8Z9MhuPg9S1l0pKGZ98=
 			</data>
 		</dict>
 	</dict>
