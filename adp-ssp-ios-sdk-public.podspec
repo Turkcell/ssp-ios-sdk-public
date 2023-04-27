@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "adp-ssp-ios-sdk-public"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "banner and popup for ssp ads. "
 
   # This description is used to generate tags and improve search results.
@@ -53,7 +53,8 @@ Pod::Spec.new do |spec|
   #  profile URL.
   #
 
-  spec.authors             = { "Gulsah Altiparmak" => "gulsah.altiparmak@turkcell.com.tr" },{ "Bilgihan Kose" => "bilgihan.kose@turkcell.com.tr" }
+  spec.author             = { "Gulsah Altiparmak" => "gulsah.altiparmak@turkcell.com.tr" }
+  spec.author             = { "Bilgihan Kose" => "bilgihan.kose@turkcell.com.tr" }
 
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
