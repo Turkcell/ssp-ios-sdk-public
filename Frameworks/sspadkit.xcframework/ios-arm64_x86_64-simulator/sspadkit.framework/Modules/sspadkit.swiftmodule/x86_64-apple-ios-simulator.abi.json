@@ -6830,14 +6830,14 @@
       "kind": "IntegerLiteral",
       "offset": 4581,
       "length": 2,
-      "value": "40"
+      "value": "45"
     },
     {
       "filePath": "\/Users\/tcbilkose\/Documents\/GitHub\/ssp-ios-sdk\/SDK\/sspadkit\/sspadkit\/Public\/SSPPopUpAd.swift",
       "kind": "IntegerLiteral",
       "offset": 4588,
       "length": 2,
-      "value": "25"
+      "value": "35"
     },
     {
       "filePath": "\/Users\/tcbilkose\/Documents\/GitHub\/ssp-ios-sdk\/SDK\/sspadkit\/sspadkit\/Public\/SSPPopUpAd.swift",
